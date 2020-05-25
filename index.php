@@ -41,7 +41,7 @@ include('header.php');
           </div>
         </div>
       </div>
-    </div>      
+    </div>
 </div>
 <!-- About section end -->
 
@@ -58,25 +58,25 @@ include('header.php');
         </div>
       </div>
       <div class="col-lg-3 col-md-12">
-        <img src="images/service/2.jpg" alt="">
+        <img src="images/service/2.jpg" alt="" class="d-none d-sm-block">
         <div class="overlay">
-          <div class="text"><img src="images/icons/1.png" alt=""><br>
+          <div class="text"><img src="images/icons/1.png" alt="" class="d-none d-sm-block"><br>
             <span>Body Treatment</span>
           </div>
       </div>
   </div>
     <div class="col-lg-3 col-md-12">
-      <img src="images/service/3.jpg" alt="">
+      <img src="images/service/3.jpg" alt="" class="d-none d-sm-block">
       <div class="overlay">
-        <div class="text"><img src="images/icons/1.png" alt=""><br>
+        <div class="text"><img src="images/icons/1.png" alt="" class="d-none d-sm-block"><br>
           <span>Body Treatment</span>
         </div>
       </div>
     </div>
     <div class="col-lg-3 col-md-12">
-      <img src="images/service/4.jpg" alt="">
+      <img src="images/service/4.jpg" alt="" class="d-none d-sm-block">
       <div class="overlay">
-        <div class="text"><img src="images/icons/1.png" alt=""><br>
+        <div class="text"><img src="images/icons/1.png" alt="" class="d-none d-sm-block"><br>
           <span>Body Treatment</span>
         </div>
       </div>
@@ -97,8 +97,8 @@ include('header.php');
     </div><br>
     <div class="row">
       <div class="col-md-4">
-        <div class="card mb-3">
-          <img src="images/post/1.jpg" alt="">
+        <div class="card mb-3 col-sm-12">
+          <img src="images/post/1.jpg" alt="" class="pt-3">
           <div class="card-body text-center">
             <h4><a href="#" class="text-dark">Massage Therapy</a></h4>
             <p>Living winged said you darkness you're divide gathered and bring one seasons face great dr Waters firmament place which.</p>
@@ -107,8 +107,8 @@ include('header.php');
         </div>
       </div>
       <div class="col-md-4">
-        <div class="card mb-3">
-          <img src="images/post/2.jpg" alt="">
+        <div class="card mb-3 col-sm-12">
+          <img src="images/post/2.jpg" alt="" class="pt-3">
           <div class="card-body text-center">
             <h4><a href="#" class="text-dark">Beauty Care</a></h4>
             <p>Living winged said you darkness you're divide gathered and bring one seasons face great dr Waters firmament place which.</p>
@@ -117,8 +117,8 @@ include('header.php');
         </div>
       </div>
       <div class="col-md-4">
-        <div class="card mb-3">
-          <img src="images/post/2.jpg" alt="">
+        <div class="card mb-3 col-sm-12">
+          <img src="images/post/2.jpg" alt="" class="pt-3">
           <div class="card-body text-center">
             <h4><a href="#" class="text-dark">Executive Reflexology</a></h4>
             <p>Living winged said you darkness you're divide gathered and bring one seasons face great dr Waters firmament place which.</p>
@@ -127,7 +127,7 @@ include('header.php');
         </div>
       </div>
     </div>
-  </div>      
+  </div>
 </div>
 <!-- Procedures section end -->
 
@@ -183,9 +183,9 @@ include('header.php');
       </div>
     </div><br>
     <div class="row mb-4">
-      <div class="col-lg-4 col-md-8 col-sm-12">
-        <div class="card text-center mb-3">
-          <img src="images/team/1.jpg" alt="" class="height">
+      <div class="col-lg-4 col-md-8">
+        <div class="card text-center mb-3 col-sm-12">
+          <img src="images/team/1.jpg" alt="" class="height pt-3">
           <div class="card-body">
             <h6 class="card-text">Joseph Austin</h6>
             <span class="card-text">Thai Message</span><br><hr>
@@ -198,9 +198,9 @@ include('header.php');
           </div>
         </div>
       </div>
-      <div class="col-lg-4 col-md-8 col-sm-12">
-        <div class="card text-center mb-3">
-          <img src="images/team/2.jpg" alt="" class="height">
+      <div class="col-lg-4 col-md-8">
+        <div class="card text-center mb-3 col-sm-12">
+          <img src="images/team/2.jpg" alt="" class="height pt-3">
           <div class="card-body">
             <h6 class="card-text">David Hannan</h6>
             <span class="card-text">Thai Message</span><br><hr>
@@ -213,9 +213,9 @@ include('header.php');
           </div>
         </div>
       </div>
-      <div class="col-lg-4 col-md-8 col-sm-12">
-        <div class="card text-center mb-3">
-          <img src="images/team/3.jpg" alt="" class="height">
+      <div class="col-lg-4 col-md-8">
+        <div class="card text-center mb-3 col-sm-12">
+          <img src="images/team/3.jpg" alt="" class="height pt-3">
           <div class="card-body">
             <h6 class="card-text">Cheryl Harris</h6>
             <span class="card-text">Thai Message</span><br><hr>
@@ -291,8 +291,8 @@ include('header.php');
     </div><br>
     <div class="row">
       <div class="col-md-4">
-        <div class="card mb-3">
-          <img src="images/post/1.jpg" alt="">
+        <div class="card mb-3 col-sm-12">
+          <img src="images/post/1.jpg" alt="" class="pt-3">
           <div class="card-body text-center">
             <h4><a href="#" class="text-dark">Massage Therapy</a></h4>
             <p>Living winged said you darkness you're divide gathered and bring one seasons face great dr Waters firmament place which.</p>
@@ -301,8 +301,8 @@ include('header.php');
         </div>
       </div>
       <div class="col-md-4">
-        <div class="card mb-3">
-          <img src="images/post/2.jpg" alt="">
+        <div class="card mb-3 col-sm-12">
+          <img src="images/post/2.jpg" alt="" class="pt-3">
           <div class="card-body text-center">
             <h4><a href="#" class="text-dark">Beauty Care</a></h4>
             <p>Living winged said you darkness you're divide gathered and bring one seasons face great dr Waters firmament place which.</p>
@@ -311,8 +311,8 @@ include('header.php');
         </div>
       </div>
       <div class="col-md-4">
-        <div class="card mb-3">
-          <img src="images/post/2.jpg" alt="">
+        <div class="card mb-3 col-sm-12">
+          <img src="images/post/2.jpg" alt="" class="pt-3">
           <div class="card-body text-center">
             <h4><a href="#" class="text-dark">Executive Reflexology</a></h4>
             <p>Living winged said you darkness you're divide gathered and bring one seasons face great dr Waters firmament place which.</p>
@@ -321,7 +321,7 @@ include('header.php');
         </div>
       </div>
     </div>
-  </div>      
+  </div>
 </div>
 <!-- Blog section end -->
 

@@ -39,6 +39,9 @@
 }
 .banner {
   background: url(images/spa.png) no-repeat right center;
+  @media (min-width: 576px) {
+    visibility: hidden;
+    }
 }
 
 .leaf {
@@ -120,4 +123,12 @@
 
 .pink {
   color: #ff817e;
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 991px) {
+  footer nav{
+    display: none!;
+  }
+
 }
