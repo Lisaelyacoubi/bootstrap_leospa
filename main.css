@@ -17,6 +17,20 @@
   border-radius: 50px;
 }
 
+/* LINKS */
+a:link {
+  color: #ff817e;
+}
+
+a:visited {
+  color: #ff817e!important;
+}
+
+a:hover {
+  color: #ff817e!important;
+}
+
+
 
 /* HEADER MENU */
 
@@ -25,9 +39,9 @@
    }
 
 .menu {
-  font-size: 14px;
+  font-size: 15px;
   text-transform: uppercase;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 
@@ -105,7 +119,6 @@
 }
 
 
-
 /* APPOINTMENT */
 
 .appointment {
@@ -136,4 +149,9 @@
   .banner {
     background: none;
   }
+
+  .banner-text {
+    margin-top: 5px;
+  }
+
 }

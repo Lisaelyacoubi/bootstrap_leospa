@@ -33,7 +33,7 @@
             <a href="#"> <i class="fab fa-vimeo-v text-dark"> |</i> </a>
             <a href="#"> <i class="fab fa-instagram text-dark"> |</i> </a>
           </div><br>
-          <p class="copyright">&copy; COPYRIGHT 2019 <a href="#">themeies.com.</a> ALL RIGHTS RESERVED.</p>
+          <p class="text-uppercase">&copy; COPYRIGHT 2019 <a href="#">themeies.com.</a> ALL RIGHTS RESERVED.</p>
         </div>
       </div>
     </div>
