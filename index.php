@@ -341,17 +341,17 @@ include('header.php');
         <div class="row">
           <div class="col-md-4">
             <address>
-              <span><i class="fas fa-map-marker-alt pink"></i></span>
+              <span><i class="fas fa-map-marker-alt fa-lg pink"></i></span>
               848 E 28th ST, BROOKLYN <br>
               NEW YORK, USa
             </address>
             <address>
-              <span><i class="fas fa-envelope pink"></i></span>
+              <span><i class="fas fa-envelope fa-lg pink"></i></span>
               <a href="mailto:example@leospa.com" class="text-dark">example@leospa.com</a>
               <a href="mailto:example@leospa.com" class="text-dark">example@leospa.com</a>
             </address>
             <address>
-              <span><i class="fas fa-phone-square-alt pink mb-4"></i></span>
+              <span><i class="fas fa-phone-square-alt fa-lg pink mb-4"></i></span>
               <a href="tel:+0236523653265(02)" class="text-dark">tel:+02 365 2365 3265 (02)</a>
               <a href="tel:+0136523653265(04)" class="text-dark">+01 365 2365 3265 (04)</a>
             </address>
