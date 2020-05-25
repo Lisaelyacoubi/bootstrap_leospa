@@ -4,6 +4,9 @@
   background-color: #fff9f8;
 }
 
+.link-card:link {
+  color: black!important;
+}
 
   /* LINKS */
   a:link {
@@ -159,6 +162,9 @@
   color: #ff817e;
 }
 
+.appointment-form {
+
+}
 
 
 
@@ -178,6 +184,7 @@
   .banner-text {
     margin-top: 5px;
   }
+
   .service-image {
     display: none!important;
   }
