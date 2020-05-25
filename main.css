@@ -5,30 +5,51 @@
 }
 
 
-.btn-round {
-  background-color: #ff817e;
-  color: #fff;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 0.8;
-  text-transform: uppercase;
-  min-width: 170px;
-  padding: 20px 15px;
-  border-radius: 50px;
-}
+  /* LINKS */
+  a:link {
+    color: #ff817e;
+  }
 
-/* LINKS */
-a:link {
-  color: #ff817e;
-}
+  a:visited {
+    color: #ff817e!important;
+  }
 
-a:visited {
-  color: #ff817e!important;
-}
+  a:hover {
+    color: #ff817e!important;
+  }
 
-a:hover {
-  color: #ff817e!important;
-}
+  /* BUTTONS */
+
+  .btn-round {
+    background-color: #ff817e!important;
+    color: #fff!important;
+    font-size: 16px!important;
+    font-weight: 500;
+    line-height: 0.8;
+    text-transform: uppercase;
+    min-width: 170px;
+    padding: 20px 15px;
+    border-radius: 50px!important;
+    border-color:  #ff817e!important;
+  }
+
+  .overlay_black:hover {
+    color: black!important;
+  }
+
+  .button-card {
+    border-radius: 50px!important;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 0.8;
+    min-width: 170px;
+  }
+
+  .button-card:hover {
+    background-color: rgba(255, 129, 126, 0.9)!important;
+    color: white!important;
+    border-color:  #ff817e!important;
+  }
 
 
 
@@ -43,6 +64,8 @@ a:hover {
   text-transform: uppercase;
   font-weight: 600;
 }
+
+
 
 
 /* BANNER */
@@ -135,6 +158,8 @@ a:hover {
 .pink {
   color: #ff817e;
 }
+
+
 
 
 /* MEDIA QUERIES */
