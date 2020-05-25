@@ -58,25 +58,25 @@ include('header.php');
         </div>
       </div>
       <div class="col-lg-3 col-md-12">
-        <img src="images/service/2.jpg" alt="" class="d-none d-sm-block">
+        <img src="images/service/2.jpg" alt="" class="service-image">
         <div class="overlay">
-          <div class="text"><img src="images/icons/1.png" alt="" class="d-none d-sm-block"><br>
+          <div class="text"><img src="images/icons/1.png" alt="" class="service-image"><br>
             <span>Body Treatment</span>
           </div>
       </div>
   </div>
     <div class="col-lg-3 col-md-12">
-      <img src="images/service/3.jpg" alt="" class="d-none d-sm-block">
+      <img src="images/service/3.jpg" alt="" class="service-image">
       <div class="overlay">
-        <div class="text"><img src="images/icons/1.png" alt="" class="d-none d-sm-block"><br>
+        <div class="text"><img src="images/icons/1.png" alt="" class="service-image"><br>
           <span>Body Treatment</span>
         </div>
       </div>
     </div>
     <div class="col-lg-3 col-md-12">
-      <img src="images/service/4.jpg" alt="" class="d-none d-sm-block">
+      <img src="images/service/4.jpg" alt="" class="service-image">
       <div class="overlay">
-        <div class="text"><img src="images/icons/1.png" alt="" class="d-none d-sm-block"><br>
+        <div class="text"><img src="images/icons/1.png" alt="" class="service-image"><br>
           <span>Body Treatment</span>
         </div>
       </div>
