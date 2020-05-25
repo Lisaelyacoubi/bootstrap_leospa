@@ -48,7 +48,7 @@ include('header.php');
   <!-- Service section start -->
 <div class="service mb-4 pb-4 pt-4">
   <div class="row">
-      <div class="col-lg-3 col-md-12">
+      <div class="col-lg-3 col-md-12" >
         <img src="images/service/1.jpg" alt="">
         <div class="overlay">
           <div class="text">
@@ -100,7 +100,7 @@ include('header.php');
         <div class="card mb-3 col-sm-12">
           <img src="images/post/1.jpg" alt="" class="pt-3">
           <div class="card-body text-center">
-            <h4><a href="#" class="text-dark">Massage Therapy</a></h4>
+            <h4><a href="#" class="text-dark link-card">Massage Therapy</a></h4>
             <p>Living winged said you darkness you're divide gathered and bring one seasons face great dr Waters firmament place which.</p>
             <button type="button" class="button-card btn btn-dark text-uppercase">read more</button>
           </div>
@@ -234,7 +234,7 @@ include('header.php');
 
 <!-- Appointment section start -->
 <div class="bg-lightred mb-4 pb-4 pt-4">
-  <div class="container-fluid">
+  <div class="container-fluid appointment-form">
       <div class="row">
         <div class="col-lg-6">
         <img src="images/appointment-img.jpg" alt="" class="appointment">
