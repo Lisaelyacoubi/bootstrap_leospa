@@ -27,7 +27,7 @@
               </ul>
             </div>
           </nav>
-          <div>
+          <div class="icons">
             <a href="#"> <i class="fab fa-facebook text-dark"> |</i> </a>
             <a href="#"> <i class="fab fa-twitter text-dark"> |</i> </a>
             <a href="#"> <i class="fab fa-vimeo-v text-dark"> |</i> </a>

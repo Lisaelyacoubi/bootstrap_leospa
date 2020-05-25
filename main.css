@@ -39,9 +39,7 @@
 }
 .banner {
   background: url(images/spa.png) no-repeat right center;
-  @media (min-width: 576px) {
-    visibility: hidden;
-    }
+
 }
 
 .leaf {
@@ -125,10 +123,17 @@
   color: #ff817e;
 }
 
+
 /* MEDIA QUERIES */
 @media (max-width: 991px) {
   footer nav{
-    display: none!;
+    display: none!important;
+  }
+  .icons {
+    margin-top: 20px;
   }
 
+  .banner {
+    background: none;
+  }
 }
