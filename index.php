@@ -12,7 +12,7 @@ include('header.php');
          <span class="text-capitalize text-danger">spa & beauty center</span><br><br>
         <h1>Beauty and success starts here.</h1><br>
               <p class="text-secondary">Together creeping heaven upon third dominion be upon won't darkness rule behold it created good saw after she'd Our set living.</p><br>
-        <a class="btn btn-danger btn-lg" href="#" role="button">reserve now</a>
+        <button type="button" class="btn btn-danger btn-lg text-uppercase mr-2">reserve now</button>
         <span><i class="far fa-play-circle text-danger"></i></span>
               <a href="https://www.youtube.com/watch?v=QWUPm0ND7HY">Watch our story</a>
       </div>
@@ -102,7 +102,7 @@ include('header.php');
           <div class="card-body text-center">
             <h4><a href="#" class="text-dark">Massage Therapy</a></h4>
             <p>Living winged said you darkness you're divide gathered and bring one seasons face great dr Waters firmament place which.</p>
-            <a  href="#" class="btn btn-dark">read more</a>
+            <button type="button" class="btn btn-dark text-uppercase">read more</button>
           </div>
         </div>
       </div>
@@ -112,7 +112,7 @@ include('header.php');
           <div class="card-body text-center">
             <h4><a href="#" class="text-dark">Beauty Care</a></h4>
             <p>Living winged said you darkness you're divide gathered and bring one seasons face great dr Waters firmament place which.</p>
-            <a  href="#" class="btn btn-dark">read more</a>
+            <button type="button" class="btn btn-dark text-uppercase">read more</button>
           </div>
         </div>
       </div>
@@ -122,7 +122,7 @@ include('header.php');
           <div class="card-body text-center">
             <h4><a href="#" class="text-dark">Executive Reflexology</a></h4>
             <p>Living winged said you darkness you're divide gathered and bring one seasons face great dr Waters firmament place which.</p>
-            <a  href="#" class="btn btn-dark">read more</a>
+            <button type="button" class="btn btn-dark text-uppercase">read more</button>
           </div>
         </div>
       </div>
@@ -296,7 +296,7 @@ include('header.php');
           <div class="card-body text-center">
             <h4><a href="#" class="text-dark">Massage Therapy</a></h4>
             <p>Living winged said you darkness you're divide gathered and bring one seasons face great dr Waters firmament place which.</p>
-            <a  href="#" class="btn btn-dark">read more</a>
+            <button type="button" class="btn btn-dark text-uppercase">read more</button>
           </div>
         </div>
       </div>
@@ -306,7 +306,7 @@ include('header.php');
           <div class="card-body text-center">
             <h4><a href="#" class="text-dark">Beauty Care</a></h4>
             <p>Living winged said you darkness you're divide gathered and bring one seasons face great dr Waters firmament place which.</p>
-            <a  href="#" class="btn btn-dark">read more</a>
+            <button type="button" class="btn btn-dark text-uppercase">read more</button>
           </div>
         </div>
       </div>
@@ -316,7 +316,7 @@ include('header.php');
           <div class="card-body text-center">
             <h4><a href="#" class="text-dark">Executive Reflexology</a></h4>
             <p>Living winged said you darkness you're divide gathered and bring one seasons face great dr Waters firmament place which.</p>
-            <a  href="#" class="btn btn-dark">read more</a>
+            <button type="button" class="btn btn-dark text-uppercase">read more</button>
           </div>
         </div>
       </div>

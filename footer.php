@@ -1,5 +1,5 @@
 <!-- Footer strat -->
-  <footer class="bg-lightred mb-4 pb-4 pt-4">
+  <footer class="bg-lightred pb-4 pt-4">
     <div class="container">
       <div class="row">
         <div class="col-12 text-center">
