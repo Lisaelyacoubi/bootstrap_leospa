@@ -151,7 +151,7 @@
 }
 
 
-/* APPOINTMENT */
+/* APPOINTMENT IMAGE & FORM*/
 
 .appointment {
   width: 100%;
@@ -160,6 +160,24 @@
 
 .padding {
   padding-top: 80px;
+  background-color: #fff9f8;
+}
+
+.form-appointment {
+  border: none!important;
+  background-color: #fff9f8!important;
+  border-bottom: 1px solid #d4d3d3!important;
+  color: #999!important;
+}
+
+input::placeholder {
+  color: #999!important;
+}
+
+select {
+  -webkit-appearance: none!important;
+  -moz-appearance: none!important;
+  appearance: none!important;
 }
 
 /* GET IN TOUCH */
@@ -202,5 +220,7 @@
   .padding {
     padding-top: 5px;
   }
+
+  .form-control
 
 }

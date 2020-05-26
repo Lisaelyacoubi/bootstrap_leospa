@@ -243,35 +243,35 @@ include('header.php');
           <form>
           <div class="row pb-2">
             <div class="col-lg-6">
-              <input type="text" class="form-control mb-2" placeholder="Name">
+              <input type="text" class="form-control mb-2 form-appointment" placeholder="Name">
             </div>
             <div class="col-lg-6">
-              <input type="text" class="form-control" placeholder="Email adress">
+              <input type="text" class="form-control form-appointment" placeholder="Email adress">
             </div>
           </div>
           <div class="row pb-2">
             <div class="col-lg-6">
-              <select class="form-control mb-2">
+              <select class="form-control mb-2 form-appointment">
                 <option>Select service</option>
                 <option>Normal service</option>
                 <option>VIP Service</option>
               </select>
             </div>
             <div class="col-lg-6">
-              <input type="tel" class="form-control mb-2" placeholder="PHONE NUMBER" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
+              <input type="tel" class="form-control mb-2 form-appointment" placeholder="PHONE NUMBER" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
             </div>
           </div>
           <div class="row pb-2">
             <div class="col-lg-6">
-              <input type="date" class="form-control mb-2" placeholder="jj/mm/aa">
+              <input type="date" class="form-control mb-2 form-appointment" placeholder="jj/mm/aa">
             </div>
             <div class="col-lg-6">
-              <input type="time" class="form-control" placeholder="--:--">
+              <input type="time" class="form-control form-appointment" placeholder="--:--">
             </div>
           </div>
           <div class="row pb-2">
             <div class="col-lg-12">
-              <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Your notes"></textarea>
+              <textarea class="form-control mb-2 form-appointment" rows="3" placeholder="Your notes"></textarea>
             </div>
           </div>
           <button type="button" class="overlay_black btn-round btn btn-danger">Make an appointment</button>
@@ -344,20 +344,20 @@ include('header.php');
       <div class="col-lg-10 col-md-12 m-auto">
         <div class="row">
           <div class="col-md-4">
-            <address>
+            <address class="text-secondary">
               <span><i class="fas fa-map-marker-alt fa-lg pink"></i></span>
               848 E 28th ST, BROOKLYN <br>
               NEW YORK, USa
             </address>
             <address>
               <span><i class="fas fa-envelope fa-lg pink"></i></span>
-              <a href="mailto:example@leospa.com" class="text-dark">example@leospa.com</a>
-              <a href="mailto:example@leospa.com" class="text-dark">example@leospa.com</a>
+              <a href="mailto:example@leospa.com" class="text-secondary">example@leospa.com</a>
+              <a href="mailto:example@leospa.com" class="text-secondary">example@leospa.com</a>
             </address>
             <address>
               <span><i class="fas fa-phone-square-alt fa-lg pink mb-4"></i></span>
-              <a href="tel:+0236523653265(02)" class="text-dark">tel:+02 365 2365 3265 (02)</a>
-              <a href="tel:+0136523653265(04)" class="text-dark">+01 365 2365 3265 (04)</a>
+              <a href="tel:+0236523653265(02)" class="text-secondary">tel:+02 365 2365 3265 (02)</a>
+              <a href="tel:+0136523653265(04)" class="text-secondary">+01 365 2365 3265 (04)</a>
             </address>
           </div>
           <div class="col-md-7 offset-md-1">
