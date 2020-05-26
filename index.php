@@ -243,35 +243,35 @@ include('header.php');
           <form>
           <div class="row pb-2">
             <div class="col-lg-6">
-              <input type="text" class="form-control mb-2 form-appointment" placeholder="Name">
+              <input type="text" class="form-control mb-4 form-appointment" placeholder="Name">
             </div>
             <div class="col-lg-6">
-              <input type="text" class="form-control form-appointment" placeholder="Email adress">
+              <input type="text" class="form-control mb-4 form-appointment" placeholder="Email adress">
             </div>
           </div>
           <div class="row pb-2">
             <div class="col-lg-6">
-              <select class="form-control mb-2 form-appointment">
+              <select class="form-control mb-4 form-appointment">
                 <option>Select service</option>
                 <option>Normal service</option>
                 <option>VIP Service</option>
               </select>
             </div>
             <div class="col-lg-6">
-              <input type="tel" class="form-control mb-2 form-appointment" placeholder="PHONE NUMBER" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
+              <input type="tel" class="form-control mb-4 form-appointment" placeholder="PHONE NUMBER" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
             </div>
           </div>
           <div class="row pb-2">
             <div class="col-lg-6">
-              <input type="date" class="form-control mb-2 form-appointment" placeholder="jj/mm/aa">
+              <input type="date" class="form-control mb-4 form-appointment" placeholder="jj/mm/aa">
             </div>
             <div class="col-lg-6">
-              <input type="time" class="form-control form-appointment" placeholder="--:--">
+              <input type="time" class="form-control mb-4 form-appointment" placeholder="--:--">
             </div>
           </div>
           <div class="row pb-2">
             <div class="col-lg-12">
-              <textarea class="form-control mb-2 form-appointment" rows="3" placeholder="Your notes"></textarea>
+              <textarea class="form-control mb-4 form-appointment" rows="3" placeholder="Your notes"></textarea>
             </div>
           </div>
           <button type="button" class="overlay_black btn-round btn btn-danger">Make an appointment</button>

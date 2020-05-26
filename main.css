@@ -159,7 +159,7 @@
 }
 
 .padding {
-  padding-top: 80px;
+  padding-top: 50px;
   background-color: #fff9f8;
 }
 
@@ -207,6 +207,8 @@ select {
 
   .banner-text {
     margin-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
   }
 
   .service-image {
