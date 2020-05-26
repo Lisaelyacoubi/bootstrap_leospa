@@ -360,8 +360,8 @@ include('header.php');
               <a href="mailto:example@leospa.com" class="text-secondary">example@leospa.com</a>
               <a href="mailto:example@leospa.com" class="text-secondary">example@leospa.com</a>
             </div>
-            <div class="mb-2">
-              <span><i class="fas fa-phone-square-alt fa-lg pink mb-4"></i></span>
+            <div class="mb-4">
+              <span><i class="fas fa-phone-square-alt fa-lg pink"></i></span>
               <a href="tel:+0236523653265(02)" class="text-secondary">tel:+02 365 2365 3265 (02)</a>
               <a href="tel:+0136523653265(04)" class="text-secondary">+01 365 2365 3265 (04)</a>
             </div>
