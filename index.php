@@ -143,20 +143,20 @@ include('header.php');
       <div class="text-center">
         <div class="container-fluid">
           <img src="images/quote.png" alt=""><br><br>
-          <p>First i beast be fruitful open you tree all Won't can't likeness and you're have whales creature seed to two grass life blessed you meat shall you winged under from their there he That you're one called gather make much red wherein set fourth green bearing fifth replenish given she had.</p>
+          <p class="center">First i beast be fruitful open you tree all Won't can't likeness and you're have whales creature seed to two grass life blessed you meat shall you winged under from their there he That you're one called gather make much red wherein set fourth green bearing fifth replenish given she had.</p>
         </div>
         <img src="images/client-1.png" alt="" class="rounded-circle"><br><br>
-        <p>Jack Marsh, <span>Executive</span></p><br>
+        <p>Jack Marsh, <i>Executive</i></p><br>
       </div>
     </div>
     <div class="carousel-item">
       <div class="text-center">
         <div class="container-fluid">
           <img src="images/quote.png" alt=""><br><br>
-          <p>First i beast be fruitful open you tree all Won't can't likeness and you're have whales creature seed to two grass life blessed you meat shall you winged under from their there he That you're one called gather make much red wherein set fourth green bearing fifth replenish given she had.</p>
+          <p class="center">First i beast be fruitful open you tree all Won't can't likeness and you're have whales creature seed to two grass life blessed you meat shall you winged under from their there he That you're one called gather make much red wherein set fourth green bearing fifth replenish given she had.</p>
         </div>
         <img src="images/client-1.png" alt="" class="rounded-circle"><br><br>
-        <p>Jack Marsh, <span>Executive</span></p><br>
+        <p>Jack Marsh, <i>Executive</i></p><br>
       </div>
     </div>
   </div>
