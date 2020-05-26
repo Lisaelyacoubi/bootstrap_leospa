@@ -244,4 +244,9 @@ select {
     display: none!important;
   }
 
+  .center {
+    margin-right: auto;
+    margin-left: auto;
+  }
+
 }
