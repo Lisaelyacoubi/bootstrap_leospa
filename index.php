@@ -258,7 +258,7 @@ include('header.php');
               </select>
             </div>
             <div class="col-lg-6">
-              <input type="tel" class="form-control mb-4 form-appointment" placeholder="PHONE NUMBER" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
+              <input type="tel" class="form-control mb-4 form-appointment" placeholder="Phone number" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
             </div>
           </div>
           <div class="row pb-2">
@@ -370,7 +370,7 @@ include('header.php');
                   <input type="text" placeholder="Email Address" name="email" id="email" class="form-control">
                 </div>
               </div>
-              <div class="row pb-5">
+              <div class="row pb-4">
                 <div class="col-lg-12">
                 <textarea placeholder="Write Comment" name="comments" id="comments" class="form-control"></textarea>
               </div>
