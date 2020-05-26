@@ -9,10 +9,10 @@ include('header.php');
         <div class="row">
           <div class="col-lg-6 col-md-9">
             <div class="banner-text">
-         <span class="text-capitalize text-danger">spa & beauty center</span><br><br>
+         <span class="text-capitalize pink">spa & beauty center</span><br><br>
         <h1>Beauty and success starts here.</h1><br>
               <p class="text-secondary">Together creeping heaven upon third dominion be upon won't darkness rule behold it created good saw after she'd Our set living.</p><br>
-        <button type="button" class="overlay_black btn btn-danger btn-lg text-uppercase mr-2">reserve now</button>
+        <button type="button" class="overlay_black btn btn-lg reserve-button text-uppercase mr-2">reserve now</button>
         <span><i class="far fa-play-circle pink"></i></span>
               <a href="https://www.youtube.com/watch?v=QWUPm0ND7HY">Watch our story</a>
       </div>

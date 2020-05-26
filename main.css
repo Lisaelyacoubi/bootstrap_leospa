@@ -11,10 +11,12 @@
   /* LINKS */
   a:link {
     color: #ff817e;
+    text-decoration: none!important;
   }
 
   a:visited {
-    color: #ff817e!important;
+    color: #ff817e;
+    text-decoration: none!important;
   }
 
   a:hover {
@@ -54,6 +56,12 @@
     border-color:  #ff817e!important;
   }
 
+  .reserve-button {
+    background-color: rgba(255, 129, 126, 0.9)!important;
+    color: white!important;
+    border-color: rgba(255, 129, 126, 0.9)!important;
+  }
+
 
 
 /* HEADER MENU */
@@ -67,8 +75,6 @@
   text-transform: uppercase;
   font-weight: 600;
 }
-
-
 
 
 /* BANNER */
