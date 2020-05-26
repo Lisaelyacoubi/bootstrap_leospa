@@ -9,12 +9,12 @@ include('header.php');
         <div class="row">
           <div class="col-lg-6 col-md-9">
             <div class="banner-text">
-         <span class="text-capitalize pink">spa & beauty center</span><br><br>
+         <span class="text-uppercase pink">spa & beauty center</span><br><br>
         <h1>Beauty and success starts here.</h1><br>
               <p class="text-secondary">Together creeping heaven upon third dominion be upon won't darkness rule behold it created good saw after she'd Our set living.</p><br>
         <button type="button" class="overlay_black btn btn-lg reserve-button text-uppercase mr-2">reserve now</button>
         <span><i class="far fa-play-circle pink"></i></span>
-              <a href="https://www.youtube.com/watch?v=QWUPm0ND7HY">Watch our story</a>
+              <a href="#">Watch our story</a>
       </div>
           </div>
         </div>
@@ -25,50 +25,54 @@ include('header.php');
 
 <!-- About section start -->
 <div class="mb-4 pb-4 pt-4">
-  <div class="d-flex justify-content-around"><img src="images/china-rose.png" alt=""><img src="images/jasmine.png" alt="">
-    </div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-10 col-md-12 m-auto">
-          <div class="text-center">
-            <div class="d-flex justify-content-center">
-              <img src="images/butterfly.png" alt="">
-            </div><br>
-            <span class="text-secondary text-capitalize">About our spa center</span><br>
-            <h2>Come and you will be Inspired!</h2><br>
-            <p>It’s the end of summer the sweltering heat makes human sweat in the night and makes the plants and trees wilt even in the moonlit nights. The eastern wind breeze brings an eerie feeling, that the monsoon clouds are soon coming, there is a strange silence in the ears, the sky gets darker and darker</p><br>
-            <button type="button" class="overlay_black btn-round btn btn-danger">Read more</button>
-          </div>
+  <div class="d-flex justify-content-around">
+    <img src="images/china-rose.png" alt="">
+    <img src="images/jasmine.png" alt="">
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 col-md-12 m-auto">
+        <div class="text-center">
+          <div class="d-flex justify-content-center">
+            <img src="images/butterfly.png" alt="">
+          </div><br>
+          <span class="text-secondary text-capitalize">About our spa center</span><br>
+          <h2>Come and you will be Inspired!</h2><br>
+          <p>It’s the end of summer the sweltering heat makes human sweat in the night and makes the plants and trees wilt even in the moonlit nights. The eastern wind breeze brings an eerie feeling, that the monsoon clouds are soon coming, there is a strange silence in the ears, the sky gets darker and darker</p><br>
+          <button type="button" class="overlay_black btn-round btn btn-danger">Read more</button>
         </div>
       </div>
     </div>
+  </div>
 </div>
 <!-- About section end -->
 
-  <!-- Service section start -->
+<!-- Service section start -->
 <div class="service mb-4 pb-4 pt-4">
   <div class="row">
-      <div class="col-lg-3 col-md-12" >
-        <img src="images/service/1.jpg" alt="" class="image">
-        <div class="overlay">
-          <div class="text">
-            <img src="images/icons/1.png" alt=""><br>
-            <span>Body Treatment</span>
-          </div>
+    <div class="col-lg-3 col-md-12" >
+      <img src="images/service/1.jpg" alt="" class="image">
+      <div class="overlay">
+        <div class="text">
+          <img src="images/icons/1.png" alt=""><br>
+          <span>Body Treatment</span>
         </div>
       </div>
-      <div class="col-lg-3 col-md-12">
-        <img src="images/service/2.jpg" alt="" class="image service-image">
-        <div class="overlay">
-          <div class="text"><img src="images/icons/1.png" alt="" class=service-image"><br>
-            <span>Body Treatment</span>
-          </div>
+    </div>
+    <div class="col-lg-3 col-md-12">
+      <img src="images/service/2.jpg" alt="" class="image service-image">
+      <div class="overlay">
+        <div class="text">
+          <img src="images/icons/1.png" alt="" class="service-image"><br>
+          <span>Body Treatment</span>
+        </div>
       </div>
-  </div>
+    </div>
     <div class="col-lg-3 col-md-12">
       <img src="images/service/3.jpg" alt="" class="image service-image">
       <div class="overlay">
-        <div class="text"><img src="images/icons/1.png" alt="" class="service-image"><br>
+        <div class="text">
+          <img src="images/icons/1.png" alt="" class="service-image"><br>
           <span>Body Treatment</span>
         </div>
       </div>
@@ -76,11 +80,13 @@ include('header.php');
     <div class="col-lg-3 col-md-12">
       <img src="images/service/4.jpg" alt="" class="image service-image">
       <div class="overlay">
-        <div class="text"><img src="images/icons/1.png" alt="" class="service-image"><br>
+        <div class="text">
+          <img src="images/icons/1.png" alt="" class="service-image"><br>
           <span>Body Treatment</span>
         </div>
       </div>
     </div>
+  </div>
 </div>
 <!-- Service section end -->
 
@@ -161,8 +167,7 @@ include('header.php');
     </div>
   </div>
 </div>
-
-<a class="carousel-control-prev" href="#" data-slide="prev">
+  <a class="carousel-control-prev" href="#" data-slide="prev">
     <span class="carousel-control-prev-icon"></span>
   </a>
   <a class="carousel-control-next" href="#" data-slide="next">
@@ -237,52 +242,53 @@ include('header.php');
   <div class="container-fluid appointment-form">
       <div class="row">
         <div class="col-lg-6">
-        <img src="images/appointment-img.jpg" alt="" class="appointment">
+          <img src="images/appointment-img.jpg" alt="" class="appointment">
         </div>
         <div class="col-lg-6 padding">
           <form>
-          <div class="row pb-2">
-            <div class="col-lg-6">
-              <input type="text" class="form-control mb-4 form-appointment" placeholder="Name">
+            <div class="row pb-2">
+              <div class="col-lg-6">
+                <input type="text" class="form-control mb-4 form-appointment" placeholder="Name">
+              </div>
+              <div class="col-lg-6">
+                <input type="text" class="form-control mb-4 form-appointment" placeholder="Email adress">
+              </div>
             </div>
-            <div class="col-lg-6">
-              <input type="text" class="form-control mb-4 form-appointment" placeholder="Email adress">
+            <div class="row pb-2">
+              <div class="col-lg-6">
+                <select class="form-control mb-4 form-appointment">
+                  <option>Select service</option>
+                  <option>Normal service</option>
+                  <option>VIP Service</option>
+                </select>
+              </div>
+              <div class="col-lg-6">
+                <input type="tel" class="form-control mb-4 form-appointment" placeholder="Phone number" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
+              </div>
             </div>
-          </div>
-          <div class="row pb-2">
-            <div class="col-lg-6">
-              <select class="form-control mb-4 form-appointment">
-                <option>Select service</option>
-                <option>Normal service</option>
-                <option>VIP Service</option>
-              </select>
+            <div class="row pb-2">
+              <div class="col-lg-6">
+                <input type="date" class="form-control mb-4 form-appointment" placeholder="jj/mm/aa">
+              </div>
+              <div class="col-lg-6">
+                <input type="time" class="form-control mb-4 form-appointment" placeholder="--:--">
+              </div>
             </div>
-            <div class="col-lg-6">
-              <input type="tel" class="form-control mb-4 form-appointment" placeholder="Phone number" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
+            <div class="row pb-2">
+              <div class="col-lg-12">
+                <textarea class="form-control mb-4 form-appointment" rows="3" placeholder="Your notes"></textarea>
+              </div>
             </div>
-          </div>
-          <div class="row pb-2">
-            <div class="col-lg-6">
-              <input type="date" class="form-control mb-4 form-appointment" placeholder="jj/mm/aa">
-            </div>
-            <div class="col-lg-6">
-              <input type="time" class="form-control mb-4 form-appointment" placeholder="--:--">
-            </div>
-          </div>
-          <div class="row pb-2">
-            <div class="col-lg-12">
-              <textarea class="form-control mb-4 form-appointment" rows="3" placeholder="Your notes"></textarea>
-            </div>
-          </div>
-          <button type="button" class="overlay_black btn-round btn btn-danger">Make an appointment</button>
-        </form>
+            <button type="button" class="overlay_black btn-round btn btn-danger">Make an appointment</button>
+          </form>
+        </div>
       </div>
     </div>
   </div>
 </div>
-    <!-- Appointment section end -->
+<!-- Appointment section end -->
 
- <!-- Blog section start -->
+<!-- Blog section start -->
 <div class=" mb-4 pb-4 pt-4">
   <div class="container">
     <div class="row">
@@ -344,21 +350,21 @@ include('header.php');
       <div class="col-lg-10 col-md-12 m-auto">
         <div class="row">
           <div class="col-md-4">
-            <address class="text-secondary">
+            <div class="text-secondary mb-2">
               <span><i class="fas fa-map-marker-alt fa-lg pink"></i></span>
               848 E 28th ST, BROOKLYN <br>
               NEW YORK, USa
-            </address>
-            <address>
+            </div>
+            <div class="mb-2">
               <span><i class="fas fa-envelope fa-lg pink"></i></span>
               <a href="mailto:example@leospa.com" class="text-secondary">example@leospa.com</a>
               <a href="mailto:example@leospa.com" class="text-secondary">example@leospa.com</a>
-            </address>
-            <address>
+            </div>
+            <div class="mb-2">
               <span><i class="fas fa-phone-square-alt fa-lg pink mb-4"></i></span>
               <a href="tel:+0236523653265(02)" class="text-secondary">tel:+02 365 2365 3265 (02)</a>
               <a href="tel:+0136523653265(04)" class="text-secondary">+01 365 2365 3265 (04)</a>
-            </address>
+            </div>
           </div>
           <div class="col-md-7 offset-md-1">
             <form action="inc/contact.php" class="contact-form"name="contactform" method="post" id="contact-form">
@@ -372,8 +378,8 @@ include('header.php');
               </div>
               <div class="row pb-4">
                 <div class="col-lg-12">
-                <textarea placeholder="Write Comment" name="comments" id="comments" class="form-control"></textarea>
-              </div>
+                  <textarea placeholder="Write Comment" name="comments" id="comments" class="form-control"></textarea>
+                </div>
               </div>
               <button class="overlay_black btn-round btn btn-danger">Submit now</button>
             </form>
@@ -384,8 +390,6 @@ include('header.php');
   </div>
 </div>
 <!-- Contact section end -->
-
-
 
 
  <?php
