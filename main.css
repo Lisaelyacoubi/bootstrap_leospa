@@ -103,7 +103,7 @@
 .image {
   display: block;
   width: 100%;
-  height: auto;
+  height: 100%;
 }
 
 .overlay {
@@ -113,7 +113,7 @@
   left: 0;
   right: 0;
   height: 100%;
-  width: 100%;
+  width: 98%;
   opacity: 0;
   transition: .5s ease;
   background-color: rgba(255, 129, 126, 0.9);
@@ -223,6 +223,16 @@ select {
     padding-top: 5px;
   }
 
-  .form-control
+  .overlay {
+    display: none!important;
+  }
+
+  .service:hover .overlay {
+    display: none!important;
+  }
+
+  .text {
+    display: none!important;
+  }
 
 }

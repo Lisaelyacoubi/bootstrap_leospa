@@ -49,7 +49,7 @@ include('header.php');
 <div class="service mb-4 pb-4 pt-4">
   <div class="row">
       <div class="col-lg-3 col-md-12" >
-        <img src="images/service/1.jpg" alt="">
+        <img src="images/service/1.jpg" alt="" class="image">
         <div class="overlay">
           <div class="text">
             <img src="images/icons/1.png" alt=""><br>
@@ -58,15 +58,15 @@ include('header.php');
         </div>
       </div>
       <div class="col-lg-3 col-md-12">
-        <img src="images/service/2.jpg" alt="" class="service-image">
+        <img src="images/service/2.jpg" alt="" class="image service-image">
         <div class="overlay">
-          <div class="text"><img src="images/icons/1.png" alt="" class="service-image"><br>
+          <div class="text"><img src="images/icons/1.png" alt="" class=service-image"><br>
             <span>Body Treatment</span>
           </div>
       </div>
   </div>
     <div class="col-lg-3 col-md-12">
-      <img src="images/service/3.jpg" alt="" class="service-image">
+      <img src="images/service/3.jpg" alt="" class="image service-image">
       <div class="overlay">
         <div class="text"><img src="images/icons/1.png" alt="" class="service-image"><br>
           <span>Body Treatment</span>
@@ -74,7 +74,7 @@ include('header.php');
       </div>
     </div>
     <div class="col-lg-3 col-md-12">
-      <img src="images/service/4.jpg" alt="" class="service-image">
+      <img src="images/service/4.jpg" alt="" class="image service-image">
       <div class="overlay">
         <div class="text"><img src="images/icons/1.png" alt="" class="service-image"><br>
           <span>Body Treatment</span>
