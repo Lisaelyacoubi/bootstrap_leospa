@@ -195,4 +195,12 @@
     display: none!important;
   }
 
+  .appointment  {
+    display: none!important;
+  }
+
+  .padding {
+    padding-top: 5px;
+  }
+
 }

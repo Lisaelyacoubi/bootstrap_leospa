@@ -100,7 +100,7 @@ include('header.php');
         <div class="card mb-3 col-sm-12">
           <img src="images/post/1.jpg" alt="" class="pt-3">
           <div class="card-body text-center">
-            <h4><a href="#" class="text-dark link-card">Massage Therapy</a></h4>
+            <h4><a href="#" class="text-dark">Massage Therapy</a></h4>
             <p>Living winged said you darkness you're divide gathered and bring one seasons face great dr Waters firmament place which.</p>
             <button type="button" class="button-card btn btn-dark text-uppercase">read more</button>
           </div>
@@ -243,26 +243,30 @@ include('header.php');
           <form>
           <div class="row pb-2">
             <div class="col-lg-6">
-              <input type="text" class="form-control" placeholder="NAME">
+              <input type="text" class="form-control mb-2" placeholder="Name">
             </div>
             <div class="col-lg-6">
-              <input type="text" class="form-control" placeholder="EMAIL ADRESS">
-            </div>
-          </div>
-          <div class="row pb-2">
-            <div class="col-lg-6">
-              <input type="text" class="form-control" placeholder="SELECT SERVICE">
-            </div>
-            <div class="col-lg-6">
-              <input type="text" class="form-control" placeholder="PHONE NUMBER">
+              <input type="text" class="form-control" placeholder="Email adress">
             </div>
           </div>
           <div class="row pb-2">
             <div class="col-lg-6">
-              <input type="text" class="form-control" placeholder="jj/mm/aa">
+              <select class="form-control mb-2">
+                <option>Select service</option>
+                <option>Normal service</option>
+                <option>VIP Service</option>
+              </select>
             </div>
             <div class="col-lg-6">
-              <input type="text" class="form-control" placeholder="--:--">
+              <input type="tel" class="form-control mb-2" placeholder="PHONE NUMBER" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
+            </div>
+          </div>
+          <div class="row pb-2">
+            <div class="col-lg-6">
+              <input type="date" class="form-control mb-2" placeholder="jj/mm/aa">
+            </div>
+            <div class="col-lg-6">
+              <input type="time" class="form-control" placeholder="--:--">
             </div>
           </div>
           <div class="row pb-2">
