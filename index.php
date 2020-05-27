@@ -26,8 +26,8 @@ include('header.php');
 <!-- About section start -->
 <div class="mb-4 pb-4 pt-4">
   <div class="d-flex justify-content-around">
-    <img src="images/china-rose.png" alt="china-rose">
-    <img src="images/jasmine.png" alt="jasmine">
+    <img src="images/china-rose.png" alt="china-rose" class="image service-image">
+    <img src="images/jasmine.png" alt="jasmine" class="image service-image">
   </div>
   <div class="container">
     <div class="row">
