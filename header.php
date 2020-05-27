@@ -30,7 +30,7 @@
         <div class="row align-items-end">
           <div class="col-md-3">
             <a href="#" class="logo">
-              <img src="images/logo.png" alt="">
+              <img src="images/logo.png" alt="logo">
             </a>
           </div>
           <div class="col-md-9">

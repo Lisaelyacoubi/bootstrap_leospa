@@ -9,13 +9,13 @@ include('header.php');
         <div class="row">
           <div class="col-lg-6 col-md-9">
             <div class="banner-text">
-         <span class="text-uppercase pink">spa & beauty center</span><br><br>
-        <h1>Beauty and success starts here.</h1><br>
+              <span class="text-uppercase pink">spa & beauty center</span><br><br>
+              <h1>Beauty and success starts here.</h1><br>
               <p class="text-secondary">Together creeping heaven upon third dominion be upon won't darkness rule behold it created good saw after she'd Our set living.</p><br>
-        <button type="button" class="overlay_black btn btn-lg reserve-button text-uppercase mr-2">reserve now</button>
-        <span><i class="far fa-play-circle pink"></i></span>
+              <button type="button" class="overlay_black btn btn-lg reserve-button text-uppercase mr-2">reserve now</button>
+              <span><i class="far fa-play-circle pink"></i></span>
               <a href="#">Watch our story</a>
-      </div>
+            </div>
           </div>
         </div>
       </div>
@@ -48,9 +48,9 @@ include('header.php');
 <!-- About section end -->
 
 <!-- Service section start -->
-<div class="service mb-4 pb-4 pt-4">
+<div class="mb-4 pb-4 pt-4">
   <div class="row">
-    <div class="col-lg-3 col-md-12" >
+    <div class="col-lg-3 col-md-12 services" >
       <img src="images/service/1.jpg" alt="" class="image">
       <div class="overlay">
         <div class="text">
@@ -59,7 +59,7 @@ include('header.php');
         </div>
       </div>
     </div>
-    <div class="col-lg-3 col-md-12">
+    <div class="col-lg-3 col-md-12 services">
       <img src="images/service/2.jpg" alt="" class="image service-image">
       <div class="overlay">
         <div class="text">
@@ -68,7 +68,7 @@ include('header.php');
         </div>
       </div>
     </div>
-    <div class="col-lg-3 col-md-12">
+    <div class="col-lg-3 col-md-12 services">
       <img src="images/service/3.jpg" alt="" class="image service-image">
       <div class="overlay">
         <div class="text">
@@ -77,7 +77,7 @@ include('header.php');
         </div>
       </div>
     </div>
-    <div class="col-lg-3 col-md-12">
+    <div class="col-lg-3 col-md-12 services">
       <img src="images/service/4.jpg" alt="" class="image service-image">
       <div class="overlay">
         <div class="text">

@@ -113,13 +113,13 @@
   left: 0;
   right: 0;
   height: 100%;
-  width: 98%;
+  width: 100%;
   opacity: 0;
   transition: .5s ease;
   background-color: rgba(255, 129, 126, 0.9);
 }
 
-.service:hover .overlay {
+.services:hover .overlay {
   opacity: 1;
 }
 
@@ -186,7 +186,6 @@ input::placeholder {
 select {
   -webkit-appearance: none!important;
   -moz-appearance: none!important;
-  appearance: none!important;
 }
 
 /* GET IN TOUCH */
@@ -194,11 +193,6 @@ select {
 .pink {
   color: #ff817e;
 }
-
-.appointment-form {
-
-}
-
 
 
 /* MEDIA QUERIES */
