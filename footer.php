@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-12 text-center">
           <a href="#" class="logo foo-logo">
-            <img src="images/logo.png" alt="">
+            <img src="images/logo.png" alt="logo">
           </a>
           <nav class="navbar navbar-expand-lg navbar-light">
             <div class="mx-auto" >

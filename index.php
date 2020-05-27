@@ -26,15 +26,15 @@ include('header.php');
 <!-- About section start -->
 <div class="mb-4 pb-4 pt-4">
   <div class="d-flex justify-content-around">
-    <img src="images/china-rose.png" alt="">
-    <img src="images/jasmine.png" alt="">
+    <img src="images/china-rose.png" alt="china-rose">
+    <img src="images/jasmine.png" alt="jasmine">
   </div>
   <div class="container">
     <div class="row">
       <div class="col-lg-10 col-md-12 m-auto">
         <div class="text-center">
           <div class="d-flex justify-content-center">
-            <img src="images/butterfly.png" alt="">
+            <img src="images/butterfly.png" alt="butterfly">
           </div><br>
           <span class="text-secondary text-capitalize">About our spa center</span><br>
           <h2>Come and you will be Inspired!</h2><br>
@@ -51,37 +51,37 @@ include('header.php');
 <div class="mb-4 pb-4 pt-4">
   <div class="row">
     <div class="col-lg-3 col-md-12 services" >
-      <img src="images/service/1.jpg" alt="" class="image">
+      <img src="images/service/1.jpg" alt="service-1" class="image">
       <div class="overlay">
         <div class="text">
-          <img src="images/icons/1.png" alt=""><br>
+          <img src="images/icons/1.png" alt="icon-1"><br>
           <span>Body Treatment</span>
         </div>
       </div>
     </div>
     <div class="col-lg-3 col-md-12 services">
-      <img src="images/service/2.jpg" alt="" class="image service-image">
+      <img src="images/service/2.jpg" alt="service-2" class="image service-image">
       <div class="overlay">
         <div class="text">
-          <img src="images/icons/1.png" alt="" class="service-image"><br>
+          <img src="images/icons/1.png" alt="icon-2" class="service-image"><br>
           <span>Body Treatment</span>
         </div>
       </div>
     </div>
     <div class="col-lg-3 col-md-12 services">
-      <img src="images/service/3.jpg" alt="" class="image service-image">
+      <img src="images/service/3.jpg" alt="service-3" class="image service-image">
       <div class="overlay">
         <div class="text">
-          <img src="images/icons/1.png" alt="" class="service-image"><br>
+          <img src="images/icons/1.png" alt="icon-3" class="service-image"><br>
           <span>Body Treatment</span>
         </div>
       </div>
     </div>
     <div class="col-lg-3 col-md-12 services">
-      <img src="images/service/4.jpg" alt="" class="image service-image">
+      <img src="images/service/4.jpg" alt="service-4" class="image service-image">
       <div class="overlay">
         <div class="text">
-          <img src="images/icons/1.png" alt="" class="service-image"><br>
+          <img src="images/icons/1.png" alt="icon-4" class="service-image"><br>
           <span>Body Treatment</span>
         </div>
       </div>
@@ -104,7 +104,7 @@ include('header.php');
     <div class="row">
       <div class="col-md-4">
         <div class="card mb-3 col-sm-12">
-          <img src="images/post/1.jpg" alt="" class="pt-3">
+          <img src="images/post/1.jpg" alt="post-1" class="pt-3">
           <div class="card-body text-center">
             <h4><a href="#" class="text-dark">Massage Therapy</a></h4>
             <p>Living winged said you darkness you're divide gathered and bring one seasons face great dr Waters firmament place which.</p>
@@ -114,7 +114,7 @@ include('header.php');
       </div>
       <div class="col-md-4">
         <div class="card mb-3 col-sm-12">
-          <img src="images/post/2.jpg" alt="" class="pt-3">
+          <img src="images/post/2.jpg" alt="post-2" class="pt-3">
           <div class="card-body text-center">
             <h4><a href="#" class="text-dark">Beauty Care</a></h4>
             <p>Living winged said you darkness you're divide gathered and bring one seasons face great dr Waters firmament place which.</p>
@@ -124,7 +124,7 @@ include('header.php');
       </div>
       <div class="col-md-4">
         <div class="card mb-3 col-sm-12">
-          <img src="images/post/2.jpg" alt="" class="pt-3">
+          <img src="images/post/2.jpg" alt="post-3" class="pt-3">
           <div class="card-body text-center">
             <h4><a href="#" class="text-dark">Executive Reflexology</a></h4>
             <p>Living winged said you darkness you're divide gathered and bring one seasons face great dr Waters firmament place which.</p>
@@ -148,20 +148,20 @@ include('header.php');
     <div class="carousel-item active">
       <div class="text-center">
         <div class="container-fluid">
-          <img src="images/quote.png" alt=""><br><br>
+          <img src="images/quote.png" alt="quote-1"><br><br>
           <p class="center">First i beast be fruitful open you tree all Won't can't likeness and you're have whales creature seed to two grass life blessed you meat shall you winged under from their there he That you're one called gather make much red wherein set fourth green bearing fifth replenish given she had.</p>
         </div>
-        <img src="images/client-1.png" alt="" class="rounded-circle"><br><br>
+        <img src="images/client-1.png" alt="client-1" class="rounded-circle"><br><br>
         <p>Jack Marsh, <i>Executive</i></p><br>
       </div>
     </div>
     <div class="carousel-item">
       <div class="text-center">
         <div class="container-fluid">
-          <img src="images/quote.png" alt=""><br><br>
+          <img src="images/quote.png" alt="quote-2"><br><br>
           <p class="center">First i beast be fruitful open you tree all Won't can't likeness and you're have whales creature seed to two grass life blessed you meat shall you winged under from their there he That you're one called gather make much red wherein set fourth green bearing fifth replenish given she had.</p>
         </div>
-        <img src="images/client-1.png" alt="" class="rounded-circle"><br><br>
+        <img src="images/client-1.png" alt="client-2" class="rounded-circle"><br><br>
         <p>Jack Marsh, <i>Executive</i></p><br>
       </div>
     </div>
@@ -190,7 +190,7 @@ include('header.php');
     <div class="row mb-4">
       <div class="col-lg-4 col-md-8">
         <div class="card text-center mb-3 col-sm-12">
-          <img src="images/team/1.jpg" alt="" class="height pt-3">
+          <img src="images/team/1.jpg" alt="team-1" class="height pt-3">
           <div class="card-body">
             <h6 class="card-text">Joseph Austin</h6>
             <span class="card-text">Thai Message</span><br><hr>
@@ -205,7 +205,7 @@ include('header.php');
       </div>
       <div class="col-lg-4 col-md-8">
         <div class="card text-center mb-3 col-sm-12">
-          <img src="images/team/2.jpg" alt="" class="height pt-3">
+          <img src="images/team/2.jpg" alt="team-2" class="height pt-3">
           <div class="card-body">
             <h6 class="card-text">David Hannan</h6>
             <span class="card-text">Thai Message</span><br><hr>
@@ -220,7 +220,7 @@ include('header.php');
       </div>
       <div class="col-lg-4 col-md-8">
         <div class="card text-center mb-3 col-sm-12">
-          <img src="images/team/3.jpg" alt="" class="height pt-3">
+          <img src="images/team/3.jpg" alt="team-3" class="height pt-3">
           <div class="card-body">
             <h6 class="card-text">Cheryl Harris</h6>
             <span class="card-text">Thai Message</span><br><hr>
@@ -242,7 +242,7 @@ include('header.php');
   <div class="container-fluid appointment-form">
       <div class="row">
         <div class="col-lg-6">
-          <img src="images/appointment-img.jpg" alt="" class="appointment">
+          <img src="images/appointment-img.jpg" alt="appointment-image" class="appointment">
         </div>
         <div class="col-lg-6 padding">
           <form>
@@ -302,7 +302,7 @@ include('header.php');
     <div class="row">
       <div class="col-md-4">
         <div class="card mb-3 col-sm-12">
-          <img src="images/post/1.jpg" alt="" class="pt-3">
+          <img src="images/post/1.jpg" alt="post-1" class="pt-3">
           <div class="card-body text-center">
             <h4><a href="#" class="text-dark">Massage Therapy</a></h4>
             <p>Living winged said you darkness you're divide gathered and bring one seasons face great dr Waters firmament place which.</p>
@@ -312,7 +312,7 @@ include('header.php');
       </div>
       <div class="col-md-4">
         <div class="card mb-3 col-sm-12">
-          <img src="images/post/2.jpg" alt="" class="pt-3">
+          <img src="images/post/2.jpg" alt="post-2" class="pt-3">
           <div class="card-body text-center">
             <h4><a href="#" class="text-dark">Beauty Care</a></h4>
             <p>Living winged said you darkness you're divide gathered and bring one seasons face great dr Waters firmament place which.</p>
@@ -322,7 +322,7 @@ include('header.php');
       </div>
       <div class="col-md-4">
         <div class="card mb-3 col-sm-12">
-          <img src="images/post/2.jpg" alt="" class="pt-3">
+          <img src="images/post/2.jpg" alt="post-3" class="pt-3">
           <div class="card-body text-center">
             <h4><a href="#" class="text-dark">Executive Reflexology</a></h4>
             <p>Living winged said you darkness you're divide gathered and bring one seasons face great dr Waters firmament place which.</p>
