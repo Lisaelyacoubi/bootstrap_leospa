@@ -29,7 +29,7 @@ include('header.php');
     <img src="images/china-rose.png" alt="china-rose" class="service-image">
     <img src="images/jasmine.png" alt="jasmine" class="service-image">
   </div>
-  <div class="container">
+  <div class="container" id="about">
     <div class="row">
       <div class="col-lg-10 col-md-12 m-auto">
         <div class="text-center">
@@ -48,7 +48,7 @@ include('header.php');
 <!-- About section end -->
 
 <!-- Service section start -->
-<div class="mb-4 pb-4 pt-4">
+<div class="mb-4 pb-4 pt-4" id="service">
   <div class="row">
     <div class="col-lg-3 col-md-12 services" >
       <img src="images/service/1.jpg" alt="service-1" class="image">
@@ -91,7 +91,7 @@ include('header.php');
 <!-- Service section end -->
 
 <!-- Procedures section start -->
-<div class="mb-4 pb-4 pt-4">
+<div class="mb-4 pb-4 pt-4" id="feature">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 m-auto">
@@ -336,7 +336,7 @@ include('header.php');
 <!-- Blog section end -->
 
 <!-- Contact section start -->
-<div class="mb-4 pb-4 pt-4">
+<div class="mb-4 pb-4 pt-4" id="contact">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 m-auto">

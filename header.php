@@ -18,7 +18,7 @@
     <script src="https://kit.fontawesome.com/5bf2af5d34.js" crossorigin="anonymous"></script>
 
 
-    <title>Leospa - Clean & Minimal SCSS HTML5 Template</title>
+    <title>Leospa</title>
     <link rel="icon" type="image/x-icon" href="images/favicon.png">
 
   </head>
@@ -41,19 +41,19 @@
               <div class="collapse navbar-collapse" id="navbarText">
                 <ul class="navbar-nav mr-auto">
                   <li class="nav-item active">
-                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="https://lisae.promo-42.codeur.online/Leospa/">Home <span class="sr-only">(current)</span></a>
                   </li>
                   <li class="nav-item active">
-                    <a class="nav-link" href="#">About <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="#about">About <span class="sr-only">(current)</span></a>
                   </li>
                   <li class="nav-item active">
-                    <a class="nav-link active" href="#">Feature <span class="sr-only">(current)</span></a>
+                    <a class="nav-link active" href="#feature">Feature <span class="sr-only">(current)</span></a>
                   </li>
                   <li class="nav-item active">
-                    <a class="nav-link" href="#">Service <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="#service">Service <span class="sr-only">(current)</span></a>
                   </li>
                   <li class="nav-item active">
-                    <a class="nav-link" href="#">Contact <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="#contact">Contact <span class="sr-only">(current)</span></a>
                   </li>
                 </ul>
               </div>

@@ -1,5 +1,9 @@
 /* COMMON */
 
+html {
+  scroll-behavior: smooth;
+}
+
 .bg-lightred {
   background-color: #fff9f8;
 }
